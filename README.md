@@ -1,22 +1,14 @@
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=smart0120&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
-
 Talking about Personal Stuffs:
-
-- I'm a full-stack / blockchain / game developer who has much experience in IT industry.
+- I'm a full-stack developer mainly focused on Python and Database.
 - Enterprise application development and support
-- <b>Blockchain</b> : Smart contract | Solana | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon
-- <b>Front-end</b> : Reactjs | Nextjs | Vuejs | Nuxtjs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
-- <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | CodeIgniter
+
+- <b>Front-end</b> : Reactjs | Nextjs | Vuejs | TypeScript | TailWind CSS | Material | Bootstrap | Antd 
+- <b>Back-end</b> : Node | Express | Django | Laravel
 - <b>Mobile</b> : React-Native | Flutter | Ionic
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
-- <b>Game</b> : Phaser3 | Unity3d
-- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA 
+- <b>Database</b> : MySQL | MongoDB | PostgreSQL | Firebase | Firestore
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on
 
 <div align="center">
@@ -25,16 +17,9 @@ Talking about Personal Stuffs:
     
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smart0120)
 
-### My Github Status
-![My Github Status](https://github-stats-alpha.vercel.app/api?username=smart0120&cc=000&tc=fff&ic=fff&bc=000)
-
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
-<div>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smart0120.smart0120" />
-    <img align="right" src="https://img.shields.io/github/followers/smart0120?label=Follow&style=social" />
-</div>
 <h1 align="center"></h1>
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
