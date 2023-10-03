@@ -26,7 +26,7 @@ Talking about Personal Stuffs:
 <table>
     <tr>
         <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
-        <td><img src="https://icons8.com/icon/rhNJ4aVAWrpL/external-shopify-an-e-commerce-platform-that-helps-to-sell-online-logo-shadow-tal-revivo" title="Shopify" width="100" alt="Shopify"></td>
+        <td><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/shopify/shopify-icon.svg" title="Shopify" width="100" alt="Shopify"></td>
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
         <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
@@ -49,7 +49,7 @@ Talking about Personal Stuffs:
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
     </tr>
     <tr>
-        <td><img src="https://icons8.com/icon/MHcMYTljfKOr/flask" title="Flask" width="100" alt="Flask"></td>
+        <td><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pocoo_flask/pocoo_flask-ar21.svg" title="Flask" width="100" alt="Flask"></td>
         <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++" width="100" alt="C++"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
         <td><img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux"></td>
