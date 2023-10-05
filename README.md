@@ -26,7 +26,7 @@ Talking about Personal Stuffs:
 <table>
     <tr>
         <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" title="Shopify" width="100" alt="Shopify"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" width="100" alt="Grafana"></td>
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
         <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
